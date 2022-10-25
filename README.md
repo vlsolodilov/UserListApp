@@ -14,3 +14,6 @@
 - RxJava
 - Dagger
 - Navigation Architecture Component
+
+### Скриншоты:
+| ![Login](/screenshot/Screenshot_login.png)| ![UserList](/screenshot/Screenshot_user_list.png) |
